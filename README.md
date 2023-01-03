@@ -1,13 +1,15 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome!%20I'm%20FrontEnd%20Developer&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome!%20I'm%20FrontEnd%20Developer&fontSize=30&animation=fadeIn)
 
 ![Boyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimboyoon&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimboyoon&layout=compact&theme=highcontrast)
 </div>
 
+<div align="center">
+  
 ### Skills
 <p display="inline">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -28,3 +30,5 @@
 
 ### Blog
 <a href="https://velog.io/@kby0908"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=fff"/></a>
+  
+</div>
