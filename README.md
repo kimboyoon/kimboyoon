@@ -1,8 +1,8 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Welcome!%20I'm%20FrontEnd%20Developer&fontSize=30&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Welcome!%20Boyoon's%20GitHub&fontSize=50&animation=fadeIn)
+  
 ![Boyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimboyoon&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimboyoon&layout=compact&theme=highcontrast)
